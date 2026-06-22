@@ -6,7 +6,7 @@
 // @author       You
 // @match        https://www.scribd.com/doc*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=scribd.com
-// @grant        GM_openInTab
+// @grant        GM_openInTa
 // ==/UserScript==
 
 (function() {
